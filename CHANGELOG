@@ -1,0 +1,23 @@
+Version 2.2.1
+----------------------------
+- New: added search engine listing (only when adding a new listing)
+- New: added option to customize the login page layout
+- New: added Interior type, Interior Color management via Backend
+- New: added option to customize the login page layout
+- New: seller can add your own features
+- New: added field for listing- fiscale power
+- Enh: removed display of language selection when using only one language
+- Enh: changed the order of the fields when adding or editing of the listing for the sellers in the simple version
+- Fix: bugs fixed
+
+
+Version 2.1.1
+----------------------------
+- New: possibility to use multi-image uploading
+- Enh: translation for some texts
+- Fix: bugs fixed
+
+
+Version 0.0.1
+----------------------------
+Initial release
