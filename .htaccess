@@ -14,8 +14,7 @@
 </IfModule>
 
 <Limit PUT DELETE>
-	order deny,allow
-	deny from all
+	allow from all
 </Limit>
 
 Options All -Indexes
